@@ -1,7 +1,13 @@
 [
+   {
    "description": "List of SMT rewards recipients and amounts",
     "week start epoch": 1628463600,
     "week end epoch": 1629068399,
+    "Scheduled release": 302737,
+    "Rollover from last week": 241625,
+    "Actual release": 54952,
+    "Rollover to next week": 489410
+   }
   {
     "0xcae1061a7dff2607aa3d22048ff1b7f42a009321": "2,673.225494123930000000",
     "0x3df51013b9080786a374e2980dd1da88b0b99177": 48.8231668936966,
