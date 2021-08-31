@@ -1,11 +1,11 @@
 [
 {
-   "description": "List of SMT rewards recipients and amounts":
-    "week start epoch": 1629068400:
-    "week end epoch": 1629676799:
-    "Scheduled release": 301224:
-    "Rollover from last week": 489409:
-    "Actual release": 410192:
+   "description": "List of SMT rewards recipients and amounts",
+    "week start epoch": 1629068400,
+    "week end epoch": 1629676799,
+    "Scheduled release": 301224,
+    "Rollover from last week": 489409,
+    "Actual release": 410192,
     "Rollover to next week": 380441
    }
 {
