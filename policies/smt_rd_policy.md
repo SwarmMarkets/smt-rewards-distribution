@@ -8,7 +8,7 @@
 
 ## Trading Rewards
 * 25% of weekly rewards (in relation to Liquidity Provider rewards)
-* 100% of user’s gas expenses for transactions (trading and liquidity provision) are compensated in SMT
+* All gas fees for swaps and adding liquidity are paid back in SMT at the beginning of each following week. Swarm Markets calculates the 7-day average USD value of SMT and reimburses customers for the gwei (in USD) paid at the time of each transaction.
 * User’s trading value prorated by liquidity on platform
 
 ## Loyalty Rewards
