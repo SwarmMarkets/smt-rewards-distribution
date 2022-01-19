@@ -2,26 +2,25 @@
 
 ## Liquidity Provider Rewards
 * 75% of weekly rewards
-* User’s SPT value prorated by liquidity on platform
+* SPT balance is calculated per address and per network, then prorated by total liquidity on platform
+* Addresses with liquidity on multiple networks are calculated separately.
 * Individual user rewards capped at 500% APY for up to $10M platform liquidity, and 250% for $10M-100M. No cap thereafter.
 * SMT pools receive a 4x rewards boost vs other pools
 
 ## Trading Rewards
-* 25% of weekly rewards (in relation to Liquidity Provider rewards)
-* All gas fees for swaps and adding liquidity are paid back in SMT at the beginning of each following week. Swarm Markets calculates the 7-day average USD value of SMT and reimburses customers for the gwei (in USD) paid at the time of each transaction.
-* User’s trading value prorated by liquidity on platform
+* 25% of weekly rewards (in relation to Liquidity Provider Rewards)
+* Trading Rewards are calculated based on individual trading volume per address and per network, thenprorated against volume of trades made by all addresses on platform
+* 100% of address gas expenses for transactions on Ethereum (trading and liquidity provision) are compensated in SMT
 
 ## Loyalty Rewards
-* SMT held accounts for 1/ held in trading wallet, 2/ unclaimed from SMT rewards, and 3/ provided into Swarm Markets liquidity pools
-* Ratio of SMT held vs Total Asset value staked in liquidity pools determines loyalty rewards: 
-	* Bronze: 1-5% of staked value held in SMT: +25% boost
-	* Silver: 5-10% of staked value held in SMT: +50% boost
-	* Gold: lesser of 10%+ of staked value or $1M held in SMT: +100% boost
-* Boost factor applied to LP reward participation and Trading rewards.
+* Ratio of SMT held vs total asset value staked in liquidity pools determines loyalty rewards (LINK)
+* Loyalty level is calculated per address per network and is not combined across networks.
+* SMT balance includes amounts held 1/ in trading wallets, 2/ unclaimed from SMT rewards, and 3/ provided into Swarm Markets liquidity pools 
+* Boost factor applied to LP Reward participation and Trading Rewards.
 
 ## General
-* All values USD denominated and converted into SMT based on weekly price average
+* All values are denominated in USD  for calculation purposes and then converted into SMT based on weekly SMT price average
 * Averages based on daily snapshots during the week
 * Weekly distributions based on predefined weekly [SMT rewards release schedule](https://docs.google.com/spreadsheets/d/13XTheJLsMDjeZUs9HGYUkjN6hA5BtsA-u6oRMrf24Ug/edit#gid=1658174309)
-* SMT rewards determined and made claimable after week
+* SMT rewards determined and made claimable after week 
 * Any undistributed weekly rewards roll-over to subsequent weekly rewards
