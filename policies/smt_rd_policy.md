@@ -13,7 +13,7 @@
 * 100% of address gas expenses for transactions on Ethereum (trading and liquidity provision) are compensated in SMT
 
 ## Loyalty Rewards
-* Ratio of SMT held vs total asset value staked in liquidity pools determines loyalty rewards (LINK)
+* Ratio of SMT held vs total asset value staked in liquidity pools determines loyalty rewards.
 * Loyalty level is calculated per address per network and is not combined across networks.
 * SMT balance includes amounts held 1/ in trading wallets, 2/ unclaimed from SMT rewards, and 3/ provided into Swarm Markets liquidity pools 
 * Boost factor applied to LP Reward participation and Trading Rewards.
