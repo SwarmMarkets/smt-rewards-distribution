@@ -9,7 +9,7 @@
 
 ## Trading Rewards
 * 25% of weekly rewards (in relation to Liquidity Provider Rewards)
-* Trading Rewards are calculated based on individual trading volume per address and per network, thenprorated against volume of trades made by all addresses on platform
+* Trading Rewards are calculated based on individual trading volume per address and per network, then prorated against volume of trades made by all addresses on platform
 * 100% of address gas expenses for transactions on Ethereum (trading and liquidity provision) are compensated in SMT
 
 ## Loyalty Rewards
