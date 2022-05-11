@@ -6,7 +6,7 @@
      "weekEndEpoch": 1651449599,
      "scheduledRelease": 251490,
      "rolloverFromLastWeek": 0,
-     "actualReleasePoly": 227701,
+     "actualReleaseEth": 227701,
      "rolloverToNextWeek": 0
    },
    "distribution": {
