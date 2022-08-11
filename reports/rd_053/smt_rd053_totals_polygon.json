@@ -4,7 +4,7 @@
      "network": "Polygon",
      "weekStartEpoch": 1659312000,
      "weekEndEpoch": 1659916799,
-     "scheduledRelease": 235399,
+     "scheduledRelease": 270273,
      "rolloverFromLastWeek": 0,
      "actualReleasePoly": 99008,
      "rolloverToNextWeek": 0
