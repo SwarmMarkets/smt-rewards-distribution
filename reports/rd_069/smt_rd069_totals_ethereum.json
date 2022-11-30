@@ -1,4 +1,5 @@
-"info": {
+{
+     "info": {
      "description": "List of SMT rewards recipients and amounts",
      "network": "Ethereum",
      "weekStartEpoch": 1668988800,
