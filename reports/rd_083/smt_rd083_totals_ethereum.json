@@ -4,7 +4,7 @@
      "network": "Ethereum",
      "weekStartEpoch": 1677456000,
      "weekEndEpoch": 1678060799,
-     "scheduledRelease": 231376,
+     "scheduledRelease": 232539,
      "rolloverFromLastWeek": 0,
      "actualReleaseEth": 155766,
      "rolloverToNextWeek": 0
