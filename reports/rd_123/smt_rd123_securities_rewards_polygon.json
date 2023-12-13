@@ -1,0 +1,14 @@
+{
+  "info": {
+    "description": "Securities Weekly SMT Allocations",
+    "network": "Polygon",
+    "weekStartEpoch": 1701648000,
+    "weekEndEpoch": 1702252799,
+    "totalSecuritiesRewardPoly": 13711
+  },
+  "securitiesrewards": {
+    "0x7fcfa7f21c9390eeb2c0158a892b817bca5fbafb": 3054003703110400000000,
+    "0xe61aa4e693d3ef8ebc8cd901df2fe1f0a6e2ce78": 2374763969057600000000,
+    "0x1020d03b5c19d3963484cd8ad8af7e159fd5e261": 8281919827832000000000
+  }
+}
