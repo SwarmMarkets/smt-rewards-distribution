@@ -7,13 +7,13 @@
 * Individual user rewards capped at 500% APY for up to $10M platform liquidity, and 250% for $10M-100M. No cap thereafter.
 * Pools with securities (stocks, bonds and indexes) receive a 4x rewards boost vs other pools
 
-## Trading Rewards
-* 25% of weekly rewards (in relation to Liquidity Provider Rewards)
-* Trading Rewards are calculated based on individual trading volume per address and per network, then prorated against volume of trades made by all addresses on platform
+## RWA Holder Rewards
+* 25% of weekly rewards
+* RWA Holder Rewards are calculated based on each address's USD-equivalent holdings of securities (stocks, bonds and indexes) pro-rated against Total Market Cap of Securities 
 
 ## Staking Rewards
-* 25% of weekly rewards (in relation to Liquidity Provider Rewards)
-* Staking Rewards are calculated based on amount of SMT staked against a specific security asset, calculated using the asset's weekly trading volume as a proportion of total securities trading volume. 
+* 25% of weekly rewards
+* Staking Rewards are calculated based on amount of SMT staked against a specific security asset, calculated using the asset's Market Cap (TVL) as a proportion of total securities Market Cap, pro-rated against all SMT stakes against the specific security asset.. 
 
 ## Loyalty Rewards
 * Ratio of SMT held vs total asset value staked in liquidity pools determines loyalty rewards.
