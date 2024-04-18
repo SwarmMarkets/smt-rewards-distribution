@@ -9,7 +9,7 @@
 
 ## RWA Holder Rewards
 * 25% of weekly rewards
-* RWA Holder Rewards are calculated based on each address's USD-equivalent holdings of securities (stocks, bonds and indexes) pro-rated against Total Market Cap of Securities 
+* RWA Holder Rewards are calculated based on each address's USD-equivalent holdings of RWAs issued on the Swarm protocol pro-rated against Total Market Cap of all RWAs 
 
 ## Staking Rewards
 * 25% of weekly rewards
