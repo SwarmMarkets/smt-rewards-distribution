@@ -13,7 +13,7 @@
 
 ## Staking Rewards
 * 25% of weekly rewards
-* Staking Rewards are calculated based on amount of SMT staked against a specific security asset, calculated using the asset's Market Cap (TVL) as a proportion of total securities Market Cap, pro-rated against all SMT stakes against the specific security asset.. 
+* Staking Rewards are based on each address's amount of SMT staked against a specific security asset, calculated using the asset's Market Cap (TVL) as a proportion of total securities Market Cap, pro-rated against all SMT stakes against the specific security asset.. 
 
 ## Loyalty Rewards
 * Ratio of SMT held vs total asset value staked in liquidity pools determines loyalty rewards.
