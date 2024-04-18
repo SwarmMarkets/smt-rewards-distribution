@@ -13,13 +13,13 @@
 
 ## Staking Rewards
 * 25% of weekly rewards
-* Staking Rewards are based on each address's amount of SMT staked against a specific security asset, calculated using the asset's Market Cap (TVL) as a proportion of total securities Market Cap, pro-rated against all SMT stakes against the specific security asset.. 
+* Staking Rewards are based on each address's amount of SMT staked against a specific security asset, calculated using the asset's Market Cap (TVL) as a proportion of total securities Market Cap, pro-rated against all SMT stakes against the specific security asset.
 
 ## Loyalty Rewards
 * Ratio of SMT held vs total asset value staked in liquidity pools determines loyalty rewards.
 * Loyalty level is calculated per address per network and is not combined across networks.
 * SMT balance includes amounts held 1/ in trading wallets, 2/ unclaimed from SMT rewards, and 3/ provided into Swarm Markets liquidity pools 
-* Boost factor applied to LP Reward participation and Trading Rewards.
+* Boost factor applied to LP Reward participation.
 
 ## Deflationary measures
 * Rewards will be allocated according to the total value locked on Swarm, with 25% of rewards being allocated per TVL threshold:
