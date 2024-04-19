@@ -2,7 +2,7 @@
 
 ## Liquidity Provider Rewards
 * 50% of weekly rewards
-* SPT balance is calculated per address and per network, then prorated by total liquidity on platform
+* Liquidity (SPT) balance is calculated per address and per network, then prorated by total liquidity on platform
 * Addresses with liquidity on multiple networks are calculated separately.
 * Individual user rewards capped at 500% APY for up to $10M platform liquidity, and 250% for $10M-100M. No cap thereafter.
 * Pools with RWAs (stocks, bonds and indexes) receive a 4x rewards boost vs other pools
