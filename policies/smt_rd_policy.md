@@ -5,7 +5,7 @@
 * SPT balance is calculated per address and per network, then prorated by total liquidity on platform
 * Addresses with liquidity on multiple networks are calculated separately.
 * Individual user rewards capped at 500% APY for up to $10M platform liquidity, and 250% for $10M-100M. No cap thereafter.
-* Pools with securities (stocks, bonds and indexes) receive a 4x rewards boost vs other pools
+* Pools with RWAs (stocks, bonds and indexes) receive a 4x rewards boost vs other pools
 
 ## RWA Holder Rewards
 * 25% of weekly rewards
@@ -13,7 +13,7 @@
 
 ## Staking Rewards
 * 25% of weekly rewards
-* Staking Rewards are based on each address's amount of SMT staked against a specific security asset, calculated using the asset's Market Cap (TVL) as a proportion of total securities Market Cap, prorated against all SMT stakes against the specific security asset.
+* Staking Rewards are based on each address's amount of SMT staked against a specific RWA, calculated using the asset's Market Cap (TVL) as a proportion of total RWA Market Cap, prorated against all SMT stakes against the specific RWA.
 
 ## Loyalty Rewards
 * Ratio of SMT held vs total asset value staked in liquidity pools determines loyalty rewards.
