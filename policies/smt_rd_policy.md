@@ -13,12 +13,12 @@
 
 ## Staking Rewards
 * 25% of weekly rewards
-* Staking Rewards are based on each address's amount of SMT staked against a specific RWA, calculated using the asset's Market Cap (TVL) as a proportion of total RWA Market Cap, prorated against all SMT stakes against the specific RWA.
+* Staking Rewards are based on each address's amount of $SMT staked against a specific RWA, calculated using the RWA's Market Cap (TVL) as a proportion of total RWA Market Cap, prorated against all $SMT stakes against the specific RWA.
 
 ## Loyalty Rewards
-* Ratio of SMT held vs total asset value staked in liquidity pools determines loyalty rewards.
+* Ratio of $SMT held vs total asset value staked in liquidity pools determines loyalty rewards.
 * Loyalty level is calculated per address per network and is not combined across networks.
-* SMT balance includes amounts held 1/ in trading wallets, 2/ unclaimed from SMT rewards, and 3/ provided into Swarm Markets liquidity pools 
+* $SMT balance includes amounts held 1/ in trading wallets, 2/ unclaimed from $SMT rewards, and 3/ provided into Swarm Markets liquidity pools 
 * Boost factor applied to LP Reward participation.
 
 ## Deflationary measures
@@ -30,8 +30,8 @@
 * Unallocated rewards will be burned each week, reducing the total circulating supply.
 
 ## General
-* All values are denominated in USD for calculation purposes and then converted into SMT based on weekly SMT price average
+* All values are denominated in USD for calculation purposes and then converted into $SMT based on weekly $SMT price average
 * Averages based on daily snapshots during the week
 * Weekly distributions based on predefined weekly [SMT rewards release schedule](https://docs.google.com/spreadsheets/d/13XTheJLsMDjeZUs9HGYUkjN6hA5BtsA-u6oRMrf24Ug/edit#gid=1658174309)
-* SMT rewards determined and made claimable after week 
+* $SMT rewards determined and made claimable after week 
 * Any undistributed weekly rewards roll-over to subsequent weekly rewards
