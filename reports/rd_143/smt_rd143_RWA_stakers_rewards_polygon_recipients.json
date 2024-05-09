@@ -6,9 +6,9 @@
      "weekStartEpoch": 1713744000,
      "weekEndEpoch": 1714348799,
      "scheduledRelease": 198445,
-     "rolloverFromLastWeek": "0,
+     "rolloverFromLastWeek": 0,
      "actualReleasePoly": 24806,
-     "rolloverToNextWeek": "0
+     "rolloverToNextWeek": 0
    },
    "distribution": {
 "0x0217420fa665dc2ed4ac3b499d165a46f694e002": "0063571096321241500",
