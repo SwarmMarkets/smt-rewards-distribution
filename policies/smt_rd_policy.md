@@ -1,25 +1,40 @@
 # SMT - Rewards Distribution - Policy
 
+SMT Rewards will consist of three categories:
+
+* Liquidity Providers (Ethereum, Polygon, BASE)
+* RWA Holders (Polygon)
+* RWA Stakers (Polygon)
+
+Regular calculations will be made to determine the TVL for each category, applying any boosts, with the weekly SMT allocated distributed proportionally to each category.
+
+Within each category, rewards will be distributed to each wallet address proportional to their contribution to the total TVL.
+
 ## Liquidity Provider Rewards
-* 50% of weekly rewards
-* Liquidity (SPT) balance is calculated per address and per network, then prorated by total liquidity on platform
-* Addresses with liquidity on multiple networks are calculated separately.
-* Individual user rewards capped at 500% APY for up to $10M platform liquidity, and 250% for $10M-100M. No cap thereafter.
-* Pools with RWAs (stocks, bonds and indexes) receive a 4x rewards boost vs other pools
+Liquidity Provider rewards are distributed to wallets that make viable offers with eligible assets within the Open dOTC protocol.
+
+**Boost**: Offers which include an RWA will be given a 2x boost.
+
+**Viable offers** are those offers that are:
+* live (not cancelled, expired, or fully taken),
+* public (not private offers)
+* in-range: priced within 20% of the current market price for the asset pair. The closer the offer price to the market price, the higher the reward.
+
+**Eligible assets** refers to assets for which a price feed exists, being:
+* Crypto assets (SMT, WETH, USDC, WBTC, etc..)
+* RWAs (Stocks, bonds and gold)
+
+The calculated value of each offer and the period of time it is considered in-range will determine the amount of reward to the offer maker, in proportion to the total TVL of the protocol.
 
 ## RWA Holder Rewards
-* 25% of weekly rewards
-* RWA Holder Rewards are calculated based on each address's USD-equivalent holdings of RWAs issued on the Swarm protocol prorated against Total Market Cap of all RWAs 
+Wallets which hold a balance of any of Swarm’s RWA assets (stocks, bonds and gold NFTs) will be counted by taking the value (in USD) of their RWA holdings and applying a 4x boost.
 
-## Staking Rewards
-* 25% of weekly rewards
-* Staking Rewards are based on each address's amount of $SMT staked against a specific RWA, calculated using the RWA's Market Cap (TVL) as a proportion of total RWA Market Cap, prorated against all $SMT stakes against the specific RWA.
+RWAs deposited as offers the Open dOTC protocol are also eligible.
 
-## Loyalty Rewards
-* Ratio of $SMT held vs total asset value staked in liquidity pools determines loyalty rewards.
-* Loyalty level is calculated per address per network and is not combined across networks.
-* $SMT balance includes amounts held 1/ in trading wallets, 2/ unclaimed from $SMT rewards, and 3/ provided into Swarm Markets liquidity pools 
-* Boost factor applied to LP Reward participation.
+## RWA Staking Rewards
+Rewards are distributed per RWA according to the market cap of each RWA in relation to total platform TVL.
+
+Wallets which have staked $SMT against a specific RWA will be entitled to a share of its rewards relative to all wallets staking against the same RWA.
 
 ## Deflationary measures
 * Rewards will be allocated according to the total value locked on Swarm, with 25% of rewards being allocated per TVL threshold:
