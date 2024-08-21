@@ -20,9 +20,9 @@ Liquidity Provider rewards are distributed to wallets that make viable offers wi
 * public (not private offers)
 * in-range: priced within 20% of the current market price for the asset pair. The closer the offer price to the market price, the higher the reward.
 
-**Eligible assets** refers to assets for which a price feed exists, being:
-* Crypto assets (SMT, WETH, USDC, WBTC, etc..)
-* RWAs (Stocks, bonds and gold)
+**Eligible assets** refers to assets for which a price feed exists, currently being:
+* Ethereum: SMT, wETH, wBTC, USDC, DAI, USDT, EUROC
+* Polygon: SMT, wETH, wBTC, USDC, USDC.e, DAI, WMATIC, AAPL, TSLA, TBONDS01, TBONDS13, COIN, NVDA, MSFT, MSTR, INTC, CPNG, BLK
 
 The calculated value of each offer and the period of time it is considered in-range will determine the amount of reward to the offer maker, in proportion to the total TVL of the protocol.
 
