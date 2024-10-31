@@ -1,0 +1,17 @@
+{
+  "info": {
+     "description": "List of SMT rewards recipients and amounts",
+     "recipients": "RWA holders",
+     "network": "Ethereum",
+     "weekStartEpoch": 1729468800,
+     "weekEndEpoch": 1730073599,
+     "scheduledRelease": 200817,
+     "rolloverFromLastWeek": 0,
+     "actualReleaseEth": 471.9106657,
+     "rolloverToNextWeek": 0
+   },
+   "distribution": {
+"0xa423887ff566144452d338dbc4e018daebb28886": 415808477200000000000,
+"0xcae1061a7dff2607aa3d22048ff1b7f42a009321": 56102188540000000000
+}
+}
