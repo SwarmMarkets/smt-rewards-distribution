@@ -1,0 +1,16 @@
+{
+  "info": {
+     "description": "List of SMT rewards recipients and amounts",
+     "network": "Ethereum",
+     "weekStartEpoch": 1730073600,
+     "weekEndEpoch": 1730678399,
+     "scheduledRelease": 199813,
+     "rolloverFromLastWeek": 0,
+     "burn": 99907,
+     "actualReleaseEth": 97.06133317,
+     "rolloverToNextWeek": 0
+   },
+   "distribution": {
+"0xa423887ff566144452d338dbc4e018daebb28886": 97061333170000000000
+}
+}
