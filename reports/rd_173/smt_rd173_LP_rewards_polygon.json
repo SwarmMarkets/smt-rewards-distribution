@@ -1,0 +1,23 @@
+{
+  "info": {
+     "description": "List of SMT rewards recipients and amounts",
+     "network": "Polygon",
+     "weekStartEpoch": 1731888000,
+     "weekEndEpoch": 1732492799,
+     "scheduledRelease": 196831,
+     "rolloverFromLastWeek": 0,
+     "actualReleasePoly": 4156.516879,
+     "rolloverToNextWeek": 0
+   },
+   "distribution": {
+"0x64d48aea239f8927422be9d5dcd411b4a3c32013": 1093977723000000000000,
+"0xde4f4015507cb53147edd0e2dfd3dcf991ae7f0c": 77401094220000000000,
+"0x11d7ccf00333d2395df38ea1c2f8b8e1a3aba5de": 8717733114000000000,
+"0xa423887ff566144452d338dbc4e018daebb28886": 0000000000000000000,
+"0x6b31682a6eec6fcedf0b9628cdfcca958bcadcd8": 2709095481000000000000,
+"0xec47c2fd3fed24508d74ff4189af63a0a90b520a": 13527326630000000000,
+"0x6eb459849f2c95a986f2620f4968c3ef8498b786": 10265331520000000000,
+"0x179877dd9880a464f0ae41eab7ba46b4523a3614": 78140936290000000000,
+"0xf5a29ed5c255bddc66390cd2a47f88dc3feef985": 165391253000000000000
+}
+}
