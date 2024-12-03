@@ -13,6 +13,9 @@ Within each category, rewards will be distributed to each wallet address proport
 ## Liquidity Provider Rewards
 Liquidity Provider rewards are distributed to wallets that make viable offers with eligible assets within the Open dOTC protocol.
 
+**Note that as of December 2, 2024, rewards will be distributed for offers made on dOTC v2 only. Offers on dOTC v1 will no longer be eligible for rewards.  
+**
+
 **Boost**: Offers which include an RWA will be given a 2x boost.
 
 **Viable offers** are those offers that are:
@@ -45,6 +48,7 @@ Wallets which have staked $SMT against a specific RWA will be entitled to a shar
 * Unallocated rewards will be burned each week, reducing the total circulating supply.
 
 ## General
+* As of 2.12.2024, liquidity provider rewards are distributed for offers made on dOTC v2 (found at app.swarm.com) 
 * All values are denominated in USD for calculation purposes and then converted into $SMT based on weekly $SMT price average
 * Averages based on daily snapshots during the week
 * Weekly distributions based on predefined weekly [SMT rewards release schedule](https://docs.google.com/spreadsheets/d/13XTheJLsMDjeZUs9HGYUkjN6hA5BtsA-u6oRMrf24Ug/edit#gid=1658174309)
