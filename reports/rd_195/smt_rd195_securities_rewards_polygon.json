@@ -4,7 +4,7 @@
     "network": "Polygon",
      "weekStartEpoch": 1745193600,
      "weekEndEpoch": 1745798399,
-     "scheduledRelease": 176279,
+     "scheduledRelease": 176279
   },
   "securitiesrewards": {
     "0xa13e07b145cd28294447dd271ea0f158727976be": 166185709377000000000,
