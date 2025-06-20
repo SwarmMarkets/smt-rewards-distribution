@@ -1,0 +1,21 @@
+{
+  "info": {
+     "description": "List of SMT rewards recipients and amounts",
+     "network": "Base",
+     "weekStartEpoch": 1749427200,
+     "weekEndEpoch": 1750031999,
+     "scheduledRelease": 170201,
+	     "rolloverFromLastWeek": 0,
+     "actualReleaseBase": 427.8132724,
+     "rolloverToNextWeek": 0
+   },
+   "distribution": {
+"0x9c5779b16e8600492c827373596b8f44deb21cce": "42560631560000000000",
+"0x2419bc63326963ce5a4f7738331c5a7e053807ac": "45803419800000000",
+"0x0cc68f1d0444633582b6d8aa36522f67d8b67777": "26512800020000000",
+"0xde4f4015507cb53147edd0e2dfd3dcf991ae7f0c": "104673716800000000000",
+"0x179877dd9880a464f0ae41eab7ba46b4523a3614": "44805595200000000000",
+"0xa423887ff566144452d338dbc4e018daebb28886": "141491353300000000000",
+"0x119324b9d8d34965b460f9457b80ead79d8fe36a": "94209659410000000000"
+}
+}
