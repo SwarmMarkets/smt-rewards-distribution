@@ -1,0 +1,16 @@
+{
+  "info": {
+    "description": "List of SMT rewards recipients and amounts",
+    "network": "BNB",
+    "weekStartEpoch": 1763942400,
+    "weekEndEpoch": 1764547199,
+    "scheduledRelease": 173971,
+    "rolloverFromLastWeek": 0,
+    "actualReleaseBNB": 8.155855893427999,
+    "rolloverToNextWeek": 0
+  },
+  "distribution": {
+    "0x67726e491bcC86d109FD5D67dBE81fd6F6Da6A24": "8916705428000000",
+    "0x42CD739A20202D681B928fC4D7aAdb32bDDDf6e7": "8146939187999999277"
+  }
+}
