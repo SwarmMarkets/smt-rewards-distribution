@@ -1,0 +1,17 @@
+{
+  "info": {
+    "description": "List of SMT rewards recipients and amounts",
+    "recipients": "RWA holders",
+    "network": "BNB",
+    "weekStartEpoch": 1765756800,
+    "weekEndEpoch": 1766361599,
+    "scheduledRelease": 171374,
+    "rolloverFromLastWeek": 0,
+    "actualReleaseBNB": 0.71806548651,
+    "rolloverToNextWeek": 0
+  },
+  "distribution": {
+    "0xEc50F9EcFC2979fB15CcaCBCf58477a9dfF8C6ca": "36065048410000002",
+    "0xf9b331972A2b4aE2e70a523378BBA245E87E6811": "682000438099999995"
+  }
+}
